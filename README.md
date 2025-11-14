@@ -1,4 +1,4 @@
-Netlify live link: 
+Netlify live link: https://imagegallerytask5.netlify.app/
 
 
 ---Task discription---
